@@ -1,17 +1,17 @@
 # Johann Laqua
 
 **CISO · BTL1 · THM Pentest+**
-📍 Genève, Suisse
+📍 Geneva, Switzerland
 
-Chief Information Security Officer chez [Infomaniak](https://www.infomaniak.com), après un parcours de 16+ ans dans la même entreprise — développeur backend, analyste cybersécurité, Data Protection Officer, puis CISO. Je m'intéresse à la sécurité réseau, la sécurité de l'information et la gouvernance des risques (GRC).
+Chief Information Security Officer at [Infomaniak](https://www.infomaniak.com), following a 16+ year journey within the same company — backend developer, cybersecurity analyst, Data Protection Officer, then CISO. Focused on network security, information security, and risk governance (GRC).
 
 ## 🔐 Focus
 
-- Sécurité réseau & sécurité de l'information
-- Gouvernance, risques et conformité (GRC)
-- Protection des données (ancien DPO)
+- Network security & information security
+- Governance, risk and compliance (GRC)
+- Data protection (former DPO)
 
-## 🛠️ Stack (héritée de mon passé de développeur)
+## 🛠️ Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -30,9 +30,9 @@ Chief Information Security Officer chez [Infomaniak](https://www.infomaniak.com)
 - TryHackMe Pentest+
 - FIRST CVSSv3.1 — Mastering CVSS v3.1
 
-## 🌐 Langues
+## 🌐 Languages
 
-Français (natif) · Anglais (professionnel) · Allemand (élémentaire)
+French (native) · English (professional) · German (elementary)
 
 ## 📫 Contact
 
