@@ -1,12 +1,13 @@
 # Johann Laqua
 
-**Senior Developer · AI-Boosted · Cybersecurity (Red & Blue Team)**
+**Senior Developer · AI-Boosted · Application Security (Red & Blue Team)**
 📍 Geneva, Switzerland
 
-Senior software engineer leveraging AI-boosted workflows, backed by strong cybersecurity skills spanning both offensive (red team) and defensive (blue team) practices. At [Infomaniak](https://www.infomaniak.com) I lead ISO 27001 compliance — running internal audits and keeping the ISMS optimized through ongoing policy and control management.
+Senior software engineer leveraging AI-boosted workflows, backed by strong application security skills — secure code review, OWASP-driven threat modeling, and both offensive (red team) and defensive (blue team) practices. At [Infomaniak](https://www.infomaniak.com) I lead ISO 27001 compliance — running internal audits and keeping the ISMS optimized through ongoing policy and control management.
 
 ## 🔐 Focus
 
+- Application Security — secure code review, OWASP Top 10, SAST/DAST, threat modeling
 - ISO 27001 / GRC — internal audits, ISMS management, policy & control frameworks
 - Red & Blue Team security practices
 - AI-boosted software development
@@ -23,6 +24,13 @@ Senior software engineer leveraging AI-boosted workflows, backed by strong cyber
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+## 🛡️ Security Tooling
+
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-000000?style=flat-square&logoColor=white)
 
 ## 🤖 AI Coding Tools
 
