@@ -1,15 +1,15 @@
 # Johann Laqua
 
-**CISO · BTL1 · THM Pentest+**
+**Senior Developer · AI-Boosted · Cybersecurity (Red & Blue Team)**
 📍 Geneva, Switzerland
 
-Chief Information Security Officer at [Infomaniak](https://www.infomaniak.com), following a 16+ year journey within the same company — backend developer, cybersecurity analyst, Data Protection Officer, then CISO. Focused on network security, information security, and risk governance (GRC).
+Senior software engineer leveraging AI-boosted workflows, backed by strong cybersecurity skills spanning both offensive (red team) and defensive (blue team) practices. At [Infomaniak](https://www.infomaniak.com) I lead ISO 27001 compliance — running internal audits and keeping the ISMS optimized through ongoing policy and control management.
 
 ## 🔐 Focus
 
-- Network security & information security
-- Governance, risk and compliance (GRC)
-- Data protection (former DPO)
+- ISO 27001 / GRC — internal audits, ISMS management, policy & control frameworks
+- Red & Blue Team security practices
+- AI-boosted software development
 
 ## 🛠️ Stack
 
@@ -23,6 +23,14 @@ Chief Information Security Officer at [Infomaniak](https://www.infomaniak.com), 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+## 🤖 AI Coding Tools
+
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-10A37F?style=flat-square&logoColor=white)
+![OpenCode](https://img.shields.io/badge/-OpenCode-333333?style=flat-square&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-8957E5?style=flat-square&logoColor=white)
+![Orca](https://img.shields.io/badge/-Orca-1E6FD9?style=flat-square&logoColor=white)
 
 ## 📜 Certifications
 
