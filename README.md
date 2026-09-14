@@ -5,32 +5,27 @@
 
 Senior software engineer leveraging AI-boosted workflows, backed by strong cybersecurity skills spanning both offensive (red team) and defensive (blue team) practices. At [Infomaniak](https://www.infomaniak.com) I lead ISO 27001 compliance — running internal audits and keeping the ISMS optimized through ongoing policy and control management.
 
-## 🔐 Focus
+## 🛠️ Tech Stack
 
-- ISO 27001 / GRC — internal audits, ISMS management, policy & control frameworks
-- Red & Blue Team security practices
-- AI-boosted software development
+### 🤖 AI and Agents
 
-## 🛠️ Stack
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat-square&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-333333?style=flat-square&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=flat-square&logoColor=white) ![Orca](https://img.shields.io/badge/Orca-1E6FD9?style=flat-square&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+### 🖥️ Frontend and Full Stack
 
-## 🤖 AI Coding Tools
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular)](https://skillicons.dev)
 
-![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-10A37F?style=flat-square&logoColor=white)
-![OpenCode](https://img.shields.io/badge/-OpenCode-333333?style=flat-square&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-8957E5?style=flat-square&logoColor=white)
-![Orca](https://img.shields.io/badge/-Orca-1E6FD9?style=flat-square&logoColor=white)
+### ⚙️ Backend and Data
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,mongodb)](https://skillicons.dev)
+
+### 🚀 DevOps and Infrastructure
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab)](https://skillicons.dev) ![Infomaniak](https://img.shields.io/badge/Infomaniak-0061C8?style=flat-square&logoColor=white)
+
+### 🛡️ Compliance and Regulatory
+
+![ISO 27001](https://img.shields.io/badge/ISO_27001-003366?style=flat-square&logoColor=white) ![ISO 27017](https://img.shields.io/badge/ISO_27017-003366?style=flat-square&logoColor=white) ![ISO 27018](https://img.shields.io/badge/ISO_27018-003366?style=flat-square&logoColor=white) ![GDPR](https://img.shields.io/badge/GDPR-10306A?style=flat-square&logo=gdpr&logoColor=white) ![LPD](https://img.shields.io/badge/LPD-003366?style=flat-square&logoColor=white)
 
 ## 📜 Certifications
 
