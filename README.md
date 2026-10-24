@@ -26,7 +26,8 @@ Senior security engineer and software developer combining hands-on red/blue team
 ### 🛡️ Security Engineering
 
 ![Red Team](https://img.shields.io/badge/Red_Team-8B0000?style=flat-square&logoColor=white) ![Blue Team](https://img.shields.io/badge/Blue_Team-005EB8?style=flat-square&logoColor=white) ![Pentest](https://img.shields.io/badge/Pentest-FF4500?style=flat-square&logoColor=white) ![AppSec](https://img.shields.io/badge/AppSec-4B0082?style=flat-square&logoColor=white) ![Threat Detection](https://img.shields.io/badge/Threat_Detection-333333?style=flat-square&logoColor=white) ![Hardening](https://img.shields.io/badge/Hardening-2E8B57?style=flat-square&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)  
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
 ### 📋 Compliance and Regulatory
 
